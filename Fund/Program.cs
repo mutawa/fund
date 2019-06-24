@@ -6,7 +6,7 @@ namespace Fund
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, Fund!");
+            Console.WriteLine("Hello, Fund!");  // not really needed
             Console.ReadLine();
 
         }
